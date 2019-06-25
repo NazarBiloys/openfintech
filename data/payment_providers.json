@@ -15265,5 +15265,24 @@
     "payout_method": [
       "payment_card"
     ]
+  },
+  {
+    "code": "rapyd",
+    "vendor": "rapyd",
+    "name": {
+      "en": "Rapyd",
+      "ru": "Rapyd",
+      "uk": "Rapyd"
+
+    },
+    "countries": [
+      "CO",
+      "AR",
+      "CL",
+      "MX"
+    ],
+    "payout_method": [
+      "payment_card"
+    ]
   }
 ]
